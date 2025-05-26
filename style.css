@@ -1,0 +1,46 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.hero {
+  background: #fefefe;
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.cta {
+  background: #0077cc;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  display: inline-block;
+  margin-top: 1rem;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 2rem;
+}
+
+.about img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+
+form input, form textarea {
+  display: block;
+  margin: 0.5rem 0;
+  width: 100%;
+  max-width: 400px;
+  padding: 0.5rem;
+}
